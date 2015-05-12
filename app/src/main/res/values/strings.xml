@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week to Go</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_print_and_share">PrintAndShareActivity</string>
+</resources>
